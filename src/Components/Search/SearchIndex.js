@@ -19,3 +19,6 @@ const SearchIndex extends Component() {
 
  
 export SearchIndex;
+
+// .filter, filter results and display
+// e.target.value
